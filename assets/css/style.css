@@ -1,0 +1,50 @@
+:root {
+    --white:#fff;
+    --pink: #e83e8c;
+    --info: #17a2b8;
+    --black: #212529;
+    /* --font-principal: 'Open Sans', sans-serif; */
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    /* color: var(--white); */
+    /* color: #fff;
+    background: var(--white); */
+}
+
+.nav--img {
+    height: 3rem;
+}
+
+.bg-pink
+{
+    background: var(--pink);
+}
+
+.h1--weight
+{
+    font-weight: 700;
+}
+
+.h1--color
+{
+    color: #707070;
+}
+
+.card-title
+{
+    font-weight: 700;
+}
+
+.footer{
+    text-align: center;
+    background-color: var(--pink);
+    height: 184px;
+}
+
+.footer--img
+{
+    width:36px;
+    height: 5rem;
+}
